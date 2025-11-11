@@ -1,2 +1,2 @@
-# Model_pytorch_predict_animals
+This project content to 4 files the main mission to this project to make ai able to predict what this animal inside picture the first file for training mode this I path the picture to model(data) and give it labels and he learn but you have to change the path data and give the right direction to your folder and if folder content more 10 you have to make run again after he finish and he well continue on old model I do that cause Google colab it spirit the running  after while of time and second file for predict he gonna ask you path and prdect and file for name animls 
 This project content to 4 files 
